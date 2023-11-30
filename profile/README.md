@@ -1,4 +1,7 @@
-## SEEBURGER OpenSource
+## Welcome to SEEBURGER @ GitHub
+
+We are an ISV and Service Provider for Business Integration.
+This GitHub organisation is for official public and open source activities.
 
 <!--
 
