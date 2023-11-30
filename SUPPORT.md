@@ -1,5 +1,5 @@
-SEEBURGER open source projects and cotibutions are not oficially supported,
-but reach out with Github Issues in the corresponding repositories.
+SEEBURGER open source projects and contributions are not officially supported,
+but feel free to reach out with GitHub Issues in the corresponding repositories.
 
 Customers and partners can contact SEEBURGER over the known channels
-(servicedesk, TAM, consulting or the SEEBURGER Customer Community).
+(Servicedesk, TAM, consulting or the SEEBURGER Customer Community).
